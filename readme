@@ -5,3 +5,8 @@ void adam_pacholski(void)
 {
 	Adam Pacholski
 }
+
+void katarzyna_kozlowska(void)
+{
+	Katarzyna Kozlowska
+}
