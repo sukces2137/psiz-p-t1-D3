@@ -15,3 +15,8 @@ void ilona_topol(void)
 {
 	Ilona Topol
 }
+
+void damian_jaworski(void)
+{
+	Damian Jaworski
+}
