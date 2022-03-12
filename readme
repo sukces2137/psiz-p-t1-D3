@@ -25,3 +25,8 @@ void katarzyna_kozlowska(void)
 {
 	Katarzyna Kozlowska
 }
+
+void pawel_stepaniuk(void)
+{
+	Pawel Stepaniuk
+}
