@@ -3,7 +3,12 @@ Dodaj na końcu tego pliku przykladowa funkcje zawierającą Twoje imie i nazwis
 
 void adam_pacholski(void)
 {
-	Adam Pacholski
+        Adam Pacholski
+}
+
+void andrzej_baranski(void)
+{
+	Andrzej Baranski
 }
 
 void ilona_topol(void)
