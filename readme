@@ -20,3 +20,8 @@ void damian_jaworski(void)
 {
 	Damian Jaworski
 }
+
+void katarzyna_kozlowska(void)
+{
+	Katarzyna Kozlowska
+}
