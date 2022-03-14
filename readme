@@ -60,3 +60,8 @@ void mateusz_matusiak(void)
 	Mateusz Matusiak
 }
 
+void patryk_sukiennik(void)
+{
+	Patryk Sukiennik
+}
+
