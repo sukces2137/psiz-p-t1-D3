@@ -40,6 +40,11 @@ void dariusz_ryszka(void)
 	Dariusz Ryszka
 }
 
+void patryk_romanowski(void)
+{
+	Patryk Romanowski
+}
+
 void Witold Michalak(void)
 {
 	Witold Michalak
