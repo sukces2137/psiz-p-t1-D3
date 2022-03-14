@@ -39,3 +39,8 @@ void dariusz_ryszka(void)
 {
 	Dariusz Ryszka
 }
+
+void jakub_strzalka(void)
+{
+	Jakub Strzalka 
+}
