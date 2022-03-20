@@ -59,6 +59,10 @@ void mateusz_matusiak(void)
 {
 	Mateusz Matusiak
 }
+void jerzy_gos(void)
+{
+	Jerzy Gos
+}
 
 void adam_tkaczyk()
 {
