@@ -74,4 +74,8 @@ void damian_naglak(void)
 	Damian Naglak
 }
 
+void maciej_sobieszczyk(void)
+{
+	Maciej Sobieszczyk
+}
 
