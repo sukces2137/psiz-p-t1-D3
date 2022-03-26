@@ -90,3 +90,8 @@ void pawel_struzynski(void)
 {
         Pawel Struzynski
 }
+
+void tytus_szatylowicz(void)
+{
+	Tytus Szatylowicz
+}
