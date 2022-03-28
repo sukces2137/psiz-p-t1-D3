@@ -5,31 +5,31 @@
 
 List* initList(void)
 {
-	List* pRoot = (List*)malloc(sizeof(*pRoot));
+	List* DamianJaworski = (List*)malloc(sizeof(*DamianJaworski));
 	
-	return pRoot;
+	return DamianJaworski;
 }
 
-void deinitList(List* pRoot)
+void deinitList(List* DamianJaworski)
 {
-	free(pRoot);
-	pRoot = NULL;
+	free(DamianJaworski);
+	DamianJaworski = NULL;
 }
 
-void addCar(List* pRoot, char* plateNum)
-{
-
-}
-
-void removeCar(List* pRoot, char* plateNum)
+void addCar(List* DamianJaworski, char* plateNum)
 {
 
 }
-void printAll(List* pRoot) {
+
+void removeCar(List* DamianJaworski, char* plateNum)
+{
+
+}
+void printAll(List* DamianJaworski) {
 
 }
 
-int numberOfElements(List* pRoot)
+int numberOfElements(List* DamianJaworski)
 {
 	return 0;
 }
