@@ -90,3 +90,8 @@ void pawel_struzynski(void)
 {
         Pawel Struzynski
 }
+
+void krzysztof_pietrzak(void)
+{
+	Krzysztof Pietrzak
+}
