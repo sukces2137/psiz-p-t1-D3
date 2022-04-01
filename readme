@@ -91,7 +91,18 @@ void pawel_struzynski(void)
         Pawel Struzynski
 }
 
+
 void tytus_szatylowicz(void)
 {
 	Tytus Szatylowicz
+}
+
+void krzysztof_pietrzak(void)
+{
+	Krzysztof Pietrzak
+}
+
+void grzegorz_kowalczyk(void)
+{
+        Grzegorz Kowalczyk
 }
