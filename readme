@@ -95,3 +95,8 @@ void krzysztof_pietrzak(void)
 {
 	Krzysztof Pietrzak
 }
+
+void grzegorz_kowalczyk(void)
+{
+        Grzegorz Kowalczyk
+}
