@@ -25,6 +25,7 @@ void removeCar(List* pRoot, char* plateNum)
 {
 
 }
+//missing comment for printALL
 void printAll(List* pRoot) {
 
 }
