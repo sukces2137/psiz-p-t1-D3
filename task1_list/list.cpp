@@ -29,7 +29,7 @@ void printAll(List* pRoot) {
 
 }
 
-int numberOfElements(List* pRoot)
+int numberOfElements(List* pRoot) //Function showing number of elements.
 {
-	return 0;
+	return 0;		//function return
 }
