@@ -6,10 +6,6 @@
 List* initList(void)
 {
 	List* pRoot = (List*)malloc(sizeof(*pRoot));
-	if(NULL == pRoot)
-	{
-		return NULL;
-	}
 	
 	return pRoot;
 }
@@ -35,5 +31,17 @@ void printAll(List* pRoot) {
 
 int numberOfElements(List* pRoot)
 {
-	return 0;
+	if(NULL == pRoot)
+	{
+		return 0;
+	}
+		
+	List *entry = pRoot;
+	int counter;
+	for(counter = 0; entry->pNext != NULL; ++counter)
+	{
+		entry = (entry->pNext);
+	}
+	
+	return counter;
 }
