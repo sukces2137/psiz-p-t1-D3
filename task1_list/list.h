@@ -8,7 +8,7 @@ typedef struct List {
 	struct List* pNext;
 } List;
 
-List*initList(void);
+List*initList(void); //comment for printALL initList
 void deinitList(List* pRoot);
 void addCar(List* pRoot, char* plateNum);
 void removeCar(List* pRoot, char* plateNum);
