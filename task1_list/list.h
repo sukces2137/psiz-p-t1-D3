@@ -11,7 +11,7 @@ typedef struct List {
 List*initList(void);
 void deinitList(List* pRoot);
 void addCar(List* pRoot, char* plateNum);
-void removeCar(List* pRoot, char* plateNum);
+void removeCar(List* pRoot, char* plateNum); //Function to remove car from list
 void printAll(List* pRoot);
 int numberOfElements(List* pRoot);
 
