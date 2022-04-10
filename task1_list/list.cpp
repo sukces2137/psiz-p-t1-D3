@@ -80,5 +80,17 @@ void printAll(List* pRoot) {
 
 int numberOfElements(List* pRoot) //Function showing number of elements.
 {
-	return 0;		//function return
+	if(NULL == pRoot)
+	{
+		return 0;
+	}
+		
+	List *entry = pRoot;
+	int counter;
+	for(counter = 0; entry->pNext != NULL; ++counter)
+	{
+		entry = (entry->pNext);
+	}
+	
+	return counter;
 }
