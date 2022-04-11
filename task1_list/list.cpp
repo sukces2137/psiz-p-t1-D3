@@ -10,8 +10,8 @@ List* initList(void)
 
 void deinitList(List* pRoot)
 {
-	free(pRoot->pPlateNum);
-    	free(pRoot);
+	free(pRoot);
+	pRoot = NULL;
 }
 
 // Funkcja dodajaca samochod do listy wjezdzajacy na parking
