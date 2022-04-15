@@ -81,11 +81,16 @@ void editCar(List* pRoot, char* plateNum)
 
 void printAll(List* pRoot) 
 {
+=======
+//missing comment for printALL
+void printAll(List* pRoot) {
+
 
 }
 
 int numberOfElements(List* pRoot) //Function showing number of elements.
 {
+
 	if(NULL == pRoot)
 	{
 		return 0;
@@ -99,4 +104,6 @@ int numberOfElements(List* pRoot) //Function showing number of elements.
 	}
 	
 	return counter;
+=======
+	return 0;
 }
