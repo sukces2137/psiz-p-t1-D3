@@ -78,7 +78,7 @@ void editCar(List* pRoot, char* plateNum)
 {
 
 }
-
+//name of the function
 void printAll(List* pRoot) 
 {
 =======
