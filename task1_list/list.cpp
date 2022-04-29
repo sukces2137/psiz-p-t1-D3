@@ -1,10 +1,27 @@
 #include "pch.h"
 #include "list.h"
+#include <iostream>
+#include <cstdlib>
+
+using namespace std;
 
 List* initList(void)
 {
 	List* pRoot = (List*)malloc(sizeof(*pRoot));
 
+	if (pRoot != NULL)
+	{
+		pRoot->pNext = NULL;
+		cout << "Memory space allocated." << endl;
+	}	
+		else if (pRoot == NULL)
+			{ 			
+				cout << "Insufficient memory available." << endl;
+			}	
+				else
+					{
+						cout << "Unknown error." << endl;
+					}
 	return pRoot;
 }
 
