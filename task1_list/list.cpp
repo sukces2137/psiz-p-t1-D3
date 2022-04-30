@@ -21,6 +21,7 @@ void addCar(List* DamianJaworski, char* plateNum)
 
 }
 
+//Usuniecie samochodu z listy
 void removeCar(List* DamianJaworski, char* plateNum)
 {
 
